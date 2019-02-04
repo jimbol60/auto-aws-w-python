@@ -8,3 +8,9 @@ script to sync a local directory to s3 bucket
 Options to be added are configure Route53 and cloudfront
 
 
+## Features
+Webotron currentl has the following features
+List Buckets
+List Content of Buckets
+
+
